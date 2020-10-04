@@ -13,8 +13,7 @@ p {
 }
 
 .box {
-    width: 25%;
-    padding: 50px; /* if you want space between the images */
+    width: 10%;
     display: block;
  }
 
