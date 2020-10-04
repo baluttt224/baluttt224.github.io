@@ -11,9 +11,15 @@ h1 {
 p {
     font-size: 2rem;
 }
-  
-  .box {
+
+.box {
     float: left;
     width: 25%;
     padding: 50px; /* if you want space between the images */
-  }
+ }
+
+ div {
+    border: 3px rgb(86, 10, 10) solid;
+    padding: 9px;
+    display: block;
+ }
