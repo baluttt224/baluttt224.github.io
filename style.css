@@ -49,7 +49,7 @@ image {
   }
   
   .clearfix::after {
-    color: #EDC787;
+    background-color: #EDC787;
     content: "";
     clear: both;
     display: table;
