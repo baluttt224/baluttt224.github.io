@@ -45,6 +45,7 @@ image {
     float: left;
     width: 25%;
     padding: 2rem;
+    text-align:center;
   }
   
   .clearfix::after {
