@@ -10,7 +10,7 @@ h1 {
 }
 
 .button {
-    background-color: #144375;
+    background-color: #EEE2DC;
     color: #EEE2DC;
     padding: 1rem 1rem;
     border-radius: 1rem;
@@ -21,7 +21,7 @@ h1 {
 }
 
 .button:hover {
-    background-color: #123C69;
+    background-color: #EDC7B7;
     color: white;
     box-shadow: 0 1rem 1rem 0 rgba(0,0,0,0.24), 0 1rem 2rem 0 rgba(0,0,0,0.19);
   }
@@ -31,14 +31,13 @@ h1 {
   }
 
   .box {
-    background-color: #EDC7B7;
     float: left;
     width: 25%;
     padding: 2rem;
   }
   
   .clearfix::after {
-    background-color: #EDC787;
+    background-color: #123C69;
     content: "";
     clear: both;
     display: table;
