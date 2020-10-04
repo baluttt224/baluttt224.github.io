@@ -16,7 +16,16 @@ p {
 .button {
     background-color: #123C69;
     color: #EEE2DC;
+    padding: 14px 40px;
+    border-radius: 8px;
+    width: 20%;
 }
+
+.button:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
 
 * {
     box-sizing: border-box;
