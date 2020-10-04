@@ -13,10 +13,10 @@ p {
 }
 
 .box {
-    display: inline;
+    display: block;
  }
 
- div {
+ div .box{
     border: 3px rgb(86, 10, 10) solid;
     padding: 9px;
     clear: right;
