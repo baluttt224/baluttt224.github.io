@@ -9,19 +9,6 @@ h1 {
     text-align:center;
 }
 
-p {
-    font-size: 2rem;
-}
-
-image {
-    max-width: 100%;    
-    height: auto;
-}
-
-.bio {
-    border-style: solid;
-}
-
 .button {
     background-color: #123C69;
     color: #EEE2DC;
@@ -56,3 +43,21 @@ image {
     clear: both;
     display: table;
   }
+
+
+
+
+
+p {
+    font-size: 2rem;
+}
+
+image {
+    max-width: 100%;    
+    height: auto;
+}
+
+.bio {
+    border-style: solid;
+}
+
