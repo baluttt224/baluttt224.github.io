@@ -16,7 +16,7 @@ p {
     display: block;
  }
 
- div .box{
+ div {
     border: 3px rgb(86, 10, 10) solid;
     padding: 9px;
     clear: right;
