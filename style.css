@@ -11,10 +11,6 @@ h1 {
 p {
     font-size: 2rem;
 }
-
-* {
-    box-sizing: border-box;
-  }
   
   .box {
     float: left;
