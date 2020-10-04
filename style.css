@@ -14,7 +14,8 @@ p {
 }
 
 button {
-    color: #123C69;
+    background-color: #123C69;
+    color: #EEE2DC;
 }
 
 * {
