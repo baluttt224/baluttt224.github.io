@@ -18,6 +18,10 @@ image {
     height: auto;
 }
 
+.bio {
+    float: left;
+}
+
 .button {
     background-color: #123C69;
     color: #EEE2DC;
