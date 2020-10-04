@@ -18,7 +18,8 @@ p {
     color: #EEE2DC;
     padding: 14px 40px;
     border-radius: 8px;
-    width: 20%;
+    width: 50%;
+    text-align:center;
 }
 
 .button:hover {
