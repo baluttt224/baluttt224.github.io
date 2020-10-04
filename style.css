@@ -12,12 +12,18 @@ p {
     font-size: 2rem;
 }
 
-.box {
-    display: block;
- }
-
- div {
-    border: 3px rgb(86, 10, 10) solid;
-    padding: 9px;
-    clear: right;
- }
+* {
+    box-sizing: border-box;
+  }
+  
+  .box {
+    float: left;
+    width: 25%;
+    padding: 50px;
+  }
+  
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
