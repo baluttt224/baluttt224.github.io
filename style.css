@@ -6,17 +6,21 @@ h1 {
     font-size: 12rem;
     font-family: "Arial Black", sans-serif;
     color: #AC3B61;
-    text-align:center
+    text-align:center;
 }
 
 p {
     font-size: 2rem;
 }
 
+button {
+    color: #123C69;
+}
+
 * {
     box-sizing: border-box;
   }
-  
+
   .box {
     float: left;
     width: 25%;
@@ -24,6 +28,7 @@ p {
   }
   
   .clearfix::after {
+    color: #EDC787;
     content: "";
     clear: both;
     display: table;
