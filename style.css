@@ -16,10 +16,11 @@ p {
     float: left;
     width: 25%;
     padding: 50px; /* if you want space between the images */
+    display: block;
  }
 
  div {
     border: 3px rgb(86, 10, 10) solid;
     padding: 9px;
-    display: block;
+    clear: right;
  }
