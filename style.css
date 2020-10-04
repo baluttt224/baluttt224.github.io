@@ -20,6 +20,7 @@ image {
 
 .bio {
     float: left;
+    border-style: solid;
 }
 
 .button {
