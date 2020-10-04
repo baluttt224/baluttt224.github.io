@@ -26,8 +26,8 @@ image {
 .button {
     background-color: #123C69;
     color: #EEE2DC;
-    padding: 14px 40px;
-    border-radius: 8px;
+    padding: 4rem 4rem;
+    border-radius: 2rem;
     width:100%;
     text-align:center;
 }
@@ -45,7 +45,7 @@ image {
   .box {
     float: left;
     width: 25%;
-    padding: 50px;
+    padding: 2rem;
   }
   
   .clearfix::after {
