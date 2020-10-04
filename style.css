@@ -13,8 +13,7 @@ p {
 }
 
 .box {
-    width: 100%;
-    display: block;
+    display: inline;
  }
 
  div {
