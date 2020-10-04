@@ -29,6 +29,7 @@ image {
     border-radius: 1rem;
     width:100%;
     text-align:center;
+    vertical-align: middle
 }
 
 .button:hover {
@@ -45,7 +46,6 @@ image {
     float: left;
     width: 25%;
     padding: 2rem;
-    text-align:center;
   }
   
   .clearfix::after {
