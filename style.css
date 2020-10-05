@@ -13,12 +13,14 @@ h1 {
 
 #nav {
     background-color: #123C69;
+    border-style: solid;
+    border-color: #123C69;
+    border-width: 0.5rem;
     width: 100%;
     height: 5rem;
 }
 
 .box {
-    background-color: #AC3B61;
     display:inline-block;
     position:relative;
     height: 100%;
