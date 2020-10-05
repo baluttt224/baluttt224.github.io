@@ -12,7 +12,7 @@ h1 {
 .button {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #BAB2B5;
-    color: #EDC7B7;
+    color: #123C69;
     padding: 5px 20px;
     border-radius: 2rem;
     max-width: 100%;
@@ -24,7 +24,7 @@ h1 {
 
 .button:hover {
     background-color: #EDC7B7;
-    color: #BAB2B5;
+    color: #123C69;
     box-shadow: 0 1rem 1rem 0 rgba(0,0,0,0.24), 0 1rem 2rem 0 rgba(0,0,0,0.19);
   }
 
@@ -67,8 +67,13 @@ h2 {
     color: #123C69;
 }
 
-.bio {
+.aboutme {
     border-style: solid;
     border-color: #123C69;
     border-width: 0.5rem;
+}
+
+.bio {
+    width: 100%;    
+    height: auto;
 }
