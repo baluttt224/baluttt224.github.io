@@ -41,6 +41,7 @@ a:link, a:visited {
   }
 
   a.greylink:link, a.greylink:visited {
+    text-align: left;
     font-size: 2.5rem;
     color: #BAB2B5;
     padding: 1rem;
