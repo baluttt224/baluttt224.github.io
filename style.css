@@ -33,13 +33,14 @@ h1 {
   }
 
   .box {
-    background-color: #123C69;
+    background-color: #EDC7B7;
     float: left;
     width: 25%;
     padding: 2rem;
   }
   
   .clearfix::after {
+    background-color: #123C69;
     content: "";
     clear: both;
     display: table;
