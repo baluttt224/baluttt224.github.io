@@ -32,14 +32,12 @@ h1 {
     text-align: center;
 }
 
-a:link { 
-    margin: auto;
-    color: #EEE2DC 
-}
-a:visited { 
-    margin: auto;
-    color: #EEE2DC 
-}
+a:link, a:visited {
+    color: #EEE2DC;
+    padding: 1rem;
+    text-align: center;
+    display: inline-block;
+  }
 
 
 
