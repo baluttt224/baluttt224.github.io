@@ -58,12 +58,17 @@ h2 {
     color: #AC3B61;
 }
 
-.aboutme {
+h3 {
+    font-size: 3.5rem;
+    color: #BAB2B5;
+}
+
+.textinfo {
     padding: 1rem;
     font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
-.bio {
+.allinfo {
     margin: auto;
     border-style: solid;
     border-color: #123C69;
