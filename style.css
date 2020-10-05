@@ -7,9 +7,6 @@ h1 {
     font-family: "Arial Black", sans-serif;
     color: #AC3B61;
     text-align:center;
-    border-style: solid;
-    border-color: #AC3B61;
-    border-width: 1rem;
 }
 
 .button {
@@ -25,7 +22,7 @@ h1 {
 }
 
 .button:hover {
-    background-color: #EDC7B7;
+    background-color: #BAB2B5;
     color: #123C69;
     box-shadow: 0 1rem 1rem 0 rgba(0,0,0,0.24), 0 1rem 2rem 0 rgba(0,0,0,0.19);
   }
@@ -55,18 +52,15 @@ p {
     font-size: 2rem;
     font-family: "Comic Sans MS", cursive, sans-serif;
     color: #123C69;
+    border-style: solid;
+    border-color: #AC3B61;
+    border-width: 1rem;
 }
 
 image {
     float: right;
     max-width: 100%;    
     height: auto;
-}
-
-.bio {
-    border-style: solid;
-    border-color: #AC3B61;
-    border-width: 1rem;
 }
 
 h2 {
