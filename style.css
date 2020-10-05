@@ -43,6 +43,7 @@ p {
 
 img {
     float: right;
+    max-width: 75%;
 }
 
 h2 {
