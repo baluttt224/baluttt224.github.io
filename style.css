@@ -60,5 +60,7 @@ image {
 
 .bio {
     border-style: solid;
+    border-color: #AC3B61;
+    border-width: 1rem;
 }
 
