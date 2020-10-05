@@ -40,9 +40,11 @@ a:link, a:visited {
     text-decoration: none;
   }
 
-  a.school:link {
-    font-size: 3rem;
+  a.school:link, a.school:visited {
+    font-size: 2.5rem;
     color: #BAB2B5;
+    padding: 1rem;
+    font-family: "Comic Sans MS", cursive, sans-serif;
   }
 
 #bold {
@@ -61,12 +63,12 @@ img {
 }
 
 h2 {
-    font-size: 4rem;
+    font-size: 3rem;
     color: #AC3B61;
 }
 
 h3 {
-    font-size: 3rem;
+    font-size: 2.5rem;
     color: #BAB2B5;
 }
 
