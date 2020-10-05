@@ -33,7 +33,7 @@ p {
 }
 
 image {
-    float: right;
+    float: left;
     width: 100%;    
     height: auto;
 }
@@ -48,6 +48,7 @@ h2 {
     border-style: solid;
     border-color: #123C69;
     border-width: 0.5rem;
+    float: left;
 }
 
 .bio {
