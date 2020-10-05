@@ -33,7 +33,7 @@ p {
 }
 
 image {
-    float: left;
+    float: right;
     width: 100%;    
     height: auto;
 }
