@@ -9,42 +9,9 @@ h1 {
     text-align:center;
 }
 
-.button {
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: #BAB2B5;
-    color: #123C69;
-    padding: 5px 20px;
-    border-radius: 2rem;
-    max-width: 100%;
-    text-align:center;
-    vertical-align: middle;
-    font-size: relative;
-    width: auto;
+#nav {
+    width: 100%;
 }
-
-.button:hover {
-    background-color: #EDC7B7;
-    color: #123C69;
-    box-shadow: 0 1rem 1rem 0 rgba(0,0,0,0.24), 0 1rem 2rem 0 rgba(0,0,0,0.19);
-  }
-
-* {
-    box-sizing: border-box;
-  }
-
-  .box {
-    background-color: #EDC7B7;
-    float: left;
-    width: 25%;
-    padding: 2rem;
-  }
-  
-  .clearfix::after {
-    background-color: #123C69;
-    content: "";
-    clear: both;
-    display: table;
-  }
 
 
 
