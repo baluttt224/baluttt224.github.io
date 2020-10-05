@@ -11,18 +11,19 @@ h1 {
 
 .button {
     background-color: #EEE2DC;
-    color: #EEE2DC;
-    padding: 1rem 1rem;
-    border-radius: 1rem;
+    color: #123C69;
+    padding: 5px 20px;
+    border-radius: 2rem;
     width:100%;
     text-align:center;
     vertical-align: middle;
     font-size: 3rem;
+    width: auto;
 }
 
 .button:hover {
     background-color: #EDC7B7;
-    color: white;
+    color: #123C69;
     box-shadow: 0 1rem 1rem 0 rgba(0,0,0,0.24), 0 1rem 2rem 0 rgba(0,0,0,0.19);
   }
 
