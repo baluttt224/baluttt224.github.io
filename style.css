@@ -35,6 +35,7 @@ h1 {
 a:link, a:visited {
     color: #EDC7B7;
     padding: 1rem;
+    font-size: 4vw;
     text-align: center;
     display: inline-block;
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
