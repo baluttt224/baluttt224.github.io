@@ -33,17 +33,26 @@
             <p>I was a Web Design Intern for TCMC during the summer of 2020.  During my intership, I was tasked with creating and adding a News Release page to the TCMC website. I learned many beneficial things during my internship. The internship allowed me to learn how to write a project proposal, explore web design, gain experience using the program Elementor and acquire a better understanding of how businesses function and manage funding.  While working as an intern for TCMC, I learned the importance of knowing one’s worth. I now have a greater amount of confidence in my work and understand the value of having a ‘go-getter’ attitude in one’s career. This was my first internship and I am incredibly grateful for the opportunity during these challenging times.</p>
         </div>
     </div>
-    <div class="spacer">
-        <br>
-    </div>
     <div class="allinfo">
         <div class="textinfo">
-            <img src="project2a.jpg" alt="Input"/>
-            <img src="project2b.jpg" alt="Magic Square"/>
+            <img src="project2a.jpg" alt="Input For Magic Square"/>
+            <img src="project2b.jpg" alt="Magic Square Output"/>
             <h2>Magic Square Project</h2>
             <h3>CISC 131</h3>
             <p> This project asks the users for an odd integer greater than two.  If the number entered fits the criteria, the program creates a magic square according to the user's specified height and width.  As defined by Wikipedia, "In recreational mathematics, a magic square is an array of distinct positive integers such that the sums of the integers in each row, column and main diagonal are equal. The integer is the order of the magic square and the constant sum is called the magic constant."</p>
         </div>
     </div>
+    <div class="allinfo">
+        <div class="textinfo">
+            <img src="assembler.jpg" alt="Assembler Project"/>
+            <h2>Assembler Project</h2>
+            <h3>CISC 340</h3>
+            <p> In this assembly-language translation, we mainly divided the project into three parts. The first part consisted of creating an array of labels (or recognizing that an address didn’t have a label). The second part consisted of converting each line of assembly-language to a decimal number. The third part consisted of writing the decimal numbers to the output file.
+            In the first part, we recorded two command line inputs that the user typed, which needed an input file name and output file name. Then, we opened the input file and used a while loop to read through every line of the input file in order to get all of the labels (which we stored in a two-dimensional array of characters). If a line didn’t have a label, we put a “\0” for that corresponding spot of the label array. We stored the total number of lines in an input file. Also, we also did error checking.  This consisted of labels not starting with letters, labels containing weird characters, labels with more than six characters, and using one of the instructions as label. After we got the label array, we checked to see if any duplicate labels existed.
+            In the second part, we use strtok() to get each column of the current line of assembly-language.  Then, we checked the first column to see if it was an instruction or not. After that, we checked for an error in which the label started with white space. Then, we used a series of if/else statements to determine the instruction type, the assembler directive, etc. We also checked for unknown instructions (which we obviously can’t compute). Inside each if/else statement, we  used strtok() to get the rest of the columns. The usage count depended on the instruction type. We used strtok() three extra times for I-type and R type instructions, two extra times for J-type instructions, one extra time for assembler directives, and no extra times for O-type instructions. Then, we combined the columns of numbers and/or labels to a 32 bit binary, converted them to a long and stored in an output array.
+            Lastly, we wrote the output array to the output file name.
+            </p>
+        </div>
+    </div> 
 </body>
 </html>
