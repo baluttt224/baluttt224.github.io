@@ -50,6 +50,8 @@ h1 {
 
 p {
     font-size: 2rem;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: #123C69;
 }
 
 image {
@@ -64,3 +66,8 @@ image {
     border-width: 1rem;
 }
 
+h2 {
+    font-size: 5rem;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: #123C69;
+}
