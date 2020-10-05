@@ -48,6 +48,10 @@ a:link, a:visited {
     font-style: bold;
 }
 
+a.greylink:hover {
+    color: #7e7a7c;
+}
+
 #bold {
     font-style: bold;
 }
