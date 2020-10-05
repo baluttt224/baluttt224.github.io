@@ -45,7 +45,7 @@ a:link, a:visited {
     color: #BAB2B5;
     padding: 1rem;
     font-family: "Comic Sans MS", cursive, sans-serif;
-    font-style: bold;
+    font-weight: bold;
 }
 
 a.greylink:hover {
