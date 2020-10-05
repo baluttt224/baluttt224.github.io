@@ -27,15 +27,13 @@ h1 {
     position:relative;
     height: 100%;
     width: 25%;
-    padding: 1rem;
-    font-size: 4vw;
     text-align: center;
 }
 
 a:link, a:visited {
     color: #EDC7B7;
     padding: 1rem;
-    font-size: 4vw;
+    font-size: 2vw;
     text-align: center;
     display: inline-block;
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
