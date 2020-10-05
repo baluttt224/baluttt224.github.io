@@ -18,12 +18,10 @@ h1 {
     border-style: solid;
     border-color: #123C69;
     border-width: 0.5rem;
-    display: inline;
 }
 
 .box {
-    width: 25%;
-    height: 5rem;
+    display: inline;
 }
 
 a:link { 
