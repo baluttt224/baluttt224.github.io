@@ -52,6 +52,12 @@ a.greylink:hover {
     color: #7e7a7c;
 }
 
+.spacer {
+    background-color: #123C69;
+    width: 100%;
+    height: 1rem;
+}
+
 #bold {
     font-style: bold;
 }
