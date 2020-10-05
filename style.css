@@ -19,7 +19,8 @@ h1 {
 
 .box {
     background-color: #AC3B61;
-    float: left;
+    display:inline-block;
+    position:relative;
     height: 100%;
     width: 25%;
 }
