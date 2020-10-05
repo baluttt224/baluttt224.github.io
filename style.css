@@ -64,6 +64,11 @@ h3 {
     color: #BAB2B5;
 }
 
+ul {
+    font-size: 2rem;
+    color: #123C69;
+}
+
 .textinfo {
     padding: 1rem;
     font-family: "Comic Sans MS", cursive, sans-serif;
