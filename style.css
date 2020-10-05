@@ -39,7 +39,7 @@ a:link, a:visited {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   }
 
-  b:link, b:visited {
+ .school {
     font-size: 3.5rem;
     color: #BAB2B5;
   }
